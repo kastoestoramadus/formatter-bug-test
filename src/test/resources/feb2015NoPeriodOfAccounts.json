@@ -1,0 +1,38 @@
+{
+  "_id": {
+    "$oid": "54d244d9420000730057fbf4"
+  },
+  "utr": "1230000821",
+  "productType": "JoinedAbridgedMicroEntity",
+  "blocks" : {},
+  "preview": false,
+  "createdDate" : {"$date" : "2016-01-06T14:25:13.526Z"},
+  "lastAccessedDate": { "$date": "2015-02-04T00:00:00.857Z"},
+  "previewBlocks": [],
+  "submissions": [],
+  "ch": {},
+  "hmrc": {
+    "companyName": {
+      "nameLine1": "TESTCASE",
+      "nameLine2": "ADDITIONAL/SPARE-28CARTER E2E CT600"
+    },
+    "companyAddress": {
+      "addressLine1": "1 ADDR LINE ADD/SPARE-28",
+      "addressLine2": "2 ADDR LINE ADD/SPARE-28",
+      "addressLine3": "DO NOT DELIVER",
+      "addressLine4": "",
+      "postcode": "TF3 4ER"
+    },
+    "companyRegistrationNumber": "null",
+    "accountPeriodDetails": {
+      "accountingPeriod": {
+        "startDate": { "$date": "2013-10-01T00:00:00.857Z" },
+        "endDate": { "$date": "2014-09-30T00:00:00.857Z"}
+      }
+    }
+  },
+  "boxNumbers": {
+    "B155": "TESTCASE ADDITIONAL/SPARE-28CARTER E2E CT600"
+  },
+  "createdFromBoxNumbersMap": false
+}
